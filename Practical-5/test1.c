@@ -1,5 +1,5 @@
 int main() {
-    int a = 5 , 7H;
+    int a = 5;
     // assign value
     char b = 'x';
     /* return
